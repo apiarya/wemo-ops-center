@@ -8,6 +8,7 @@ Control WeMo smart home devices through AI assistants using natural language.
 [![Add to Cursor](https://img.shields.io/badge/Add_to-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](cursor://anysphere.cursor-deeplink/mcp/install?name=WeMo%20MCP%20Server&config=eyJjb21tYW5kIjoidXZ4IiwiYXJncyI6WyJ3ZW1vLW1jcC1zZXJ2ZXIiXX0%3D)
 
 [![PyPI version](https://img.shields.io/pypi/v/wemo-mcp-server.svg)](https://pypi.org/project/wemo-mcp-server/)
+[![Publish MCP Server to PyPI](https://github.com/qrussell/wemo-ops-center/actions/workflows/pypi-publish.yml/badge.svg)](https://github.com/qrussell/wemo-ops-center/actions/workflows/pypi-publish.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/MCP-Server-blue)](https://modelcontextprotocol.io)

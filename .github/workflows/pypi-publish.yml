@@ -66,7 +66,8 @@ jobs:
         with:
           packages-dir: mcp/dist/
           print-hash: true
-          # Using trusted publishing (OIDC) - configure at https://pypi.org/manage/account/publishing/
+          repository-url: https://test.pypi.org/legacy/
+          # Using trusted publishing (OIDC) - configure at https://test.pypi.org/manage/account/publishing/
           # Alternative: use password: ${{ secrets.PYPI_API_TOKEN }} if using API token
 
       - name: Create release summary
