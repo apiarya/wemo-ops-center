@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "wemo-mcp-server"
+name = "wemo-mcp-server-test"
 version = "0.1.0"
 description = "Model Context Protocol server for WeMo smart home device discovery and control"
 authors = [
